@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![ScreenShot](./images/screenshot.jpg)
 
 
 ### Links
@@ -31,4 +31,4 @@ Users should be able to:
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@neofitt](https://www.frontendmentor.io/profile/@neofitt)
